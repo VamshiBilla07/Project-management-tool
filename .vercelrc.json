@@ -1,7 +1,0 @@
-{
-  "installCommand": "npm install --prefix backend && npm install --prefix frontend",
-  "buildCommand": "npm run vercel-build --prefix frontend && npx prisma generate --schema=backend/prisma/schema.prisma",
-  "devCommand": "npm run dev --prefix frontend",
-  "framework": null,
-  "outputDirectory": "frontend/dist"
-}
