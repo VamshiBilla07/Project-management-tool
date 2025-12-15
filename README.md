@@ -1,6 +1,14 @@
 # 📋 Project Management Tool
 
-A full-stack project management application built with React, Node.js, Express, Prisma, and SQLite. Create projects, assign tasks, set deadlines, and track progress with an intuitive interface.
+A full-stack project management application built with React, Node.js, Express, Prisma, and PostgreSQL. Create projects, assign tasks, set deadlines, and track progress with an intuitive interface.
+
+## 🚀 Quick Deploy to Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
+
+**Ready to deploy? See [DEPLOY.md](DEPLOY.md) for quick 5-minute deployment guide!**
+
+For detailed instructions, see [VERCEL_DEPLOYMENT.md](VERCEL_DEPLOYMENT.md)
 
 ### Installation
 

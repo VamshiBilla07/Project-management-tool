@@ -28,6 +28,10 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
+
+# Vercel
+.vercel
+.vercelrc
 *.sw?
 .DS_Store
 
